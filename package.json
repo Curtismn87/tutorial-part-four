@@ -27,6 +27,7 @@
     "typography-theme-kirkham": "^0.16.19"
   },
   "devDependencies": {
+    "husky": "^4.2.5",
     "prettier": "^1.19.1"
   },
   "repository": {
